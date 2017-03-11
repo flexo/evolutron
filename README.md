@@ -34,6 +34,8 @@ You will need Python 3.3 or higher. Sometimes this means the pip command will be
 Troubleshooting
 ---------------
 
+On Windows you will need Visual C++ Build Tools or Visual Studio installed; [details here](https://blogs.msdn.microsoft.com/pythonengineering/2016/04/11/unable-to-find-vcvarsall-bat/)
+
 If you make a change and get the following error, delete ~/.pyxbld:
 
 ```
